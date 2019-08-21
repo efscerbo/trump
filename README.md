@@ -13,3 +13,5 @@ trump_tweets_1 = load_tweets('trump_tweets_1.json')
 trump_tweets_2 = load_tweets('trump_tweets_2.json')
 
 trump_tweets = trump_tweets_1 + trump_tweets_2
+
+('load_tweets' is a function in 'TrumpTwitter.ipynb'.)
