@@ -9,5 +9,7 @@ wish to run the code, you should load each of these files
 separately and then combine them:
 
 trump_tweets_1 = load_tweets('trump_tweets_1.json')
+
 trump_tweets_2 = load_tweets('trump_tweets_2.json')
+
 trump_tweets = trump_tweets_1 + trump_tweets_2
